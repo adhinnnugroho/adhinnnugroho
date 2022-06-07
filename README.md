@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adhinnnugroho
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I'm learning to be better 
+- 💞️ I’m looking to collaborate on youtube
+- 📫 How to reach me by whatsapp
 
 <!---
 adhinnnugroho/adhinnnugroho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
