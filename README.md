@@ -4,7 +4,6 @@
 🔭 I’m currently working on Corporate!<br>
 🤝 I’m looking for help with  about programming<br>
 🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web application using NextJs<br>
-💬 Ask me about Flutter and Next JS<br>
 
 
  <br />
