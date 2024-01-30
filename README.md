@@ -1,5 +1,12 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw">Adhi Nugroho! </a></h1>
- 
+
+ ## 💫 About Me:
+🔭 I’m currently working on Corporate!<br>
+🤝 I’m looking for help with  about programming<br>
+🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web aplication using NextJs<br>
+💬 Ask me about Flutter and Next JS<br>
+
+
  <br />
  
 ## 🌐 Socials:
