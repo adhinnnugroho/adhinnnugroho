@@ -22,3 +22,22 @@
 #### Other
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+
+## 📊 GitHub Stats:
+
+<table style="width: 100%">
+ <tbody>
+  <tr>
+   <td align="center">My Commit</td>
+   <td align="center">Streak Status</td>
+  </tr>
+  <tr>
+   <td align="center">
+    <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adhinnnugroho&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
+   </td>
+   <td align="center">
+    <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
+   </td>
+  </tr>
+ </tbody>
+</table>
