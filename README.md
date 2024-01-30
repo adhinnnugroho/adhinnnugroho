@@ -52,5 +52,15 @@
     <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
    </td>
   </tr>
+  <tr>
+   <td align="center" colspan="2">
+    Most Used Languages
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="2">
+     <img height="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
+   </td>
+  </tr>
  </tbody>
 </table>
