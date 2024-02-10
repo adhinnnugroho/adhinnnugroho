@@ -54,7 +54,7 @@
 
 <table style="width: 100%">
  <tbody>
-  <tr>
+<!--   <tr>
    <td align="center">My Commit</td>
    <td align="center">Streak Status</td>
   </tr>
@@ -65,7 +65,7 @@
    <td align="center">
     <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
    </td>
-  </tr>
+  </tr> -->
   <tr>
    <td align="center" colspan="2">
     Most Used Languages
