@@ -71,7 +71,12 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
    </td>
   </tr>
   <tr>
-   <td align="center" colspan="6">
+   <td align="center" colspan="2">
+    Most Used Languages
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="8">
      <img height="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>
   </tr>
