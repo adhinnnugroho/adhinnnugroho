@@ -60,7 +60,7 @@
   </tr>
   <tr>
    <td align="center">
-       <img height="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
+       <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>
    <td align="center">
     <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
