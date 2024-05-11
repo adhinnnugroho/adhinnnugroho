@@ -16,25 +16,7 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:adhinnnugroho@gmail.com)
 
-<!--
-
-## 💫 About Me:<br>
-
-
-
- <br />
-
-## 🌐 Socials:
-
-
-
- <br />
-
-## 📞 Contact:
-
-
-
- <br />
+<br />
 
 ## 💻 Tech Stack:
 
@@ -70,6 +52,36 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+<!--
+
+## 💫 About Me:<br>
+
+
+
+ <br />
+
+## 🌐 Socials:
+
+
+
+ <br />
+
+## 📞 Contact:
+
+
+
+ <br />
+
+## 💻 Tech Stack:
+
+#### Programming Language
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
 
 ## 📊 GitHub Stats:
 
