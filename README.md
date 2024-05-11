@@ -2,17 +2,21 @@
 <h3 align="center">Full-stack Web developer</h3>
 
  <br />
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I am a Full-stack Web Developer <b> with 2.5 years of experience </b> in the Technology industry. I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I believe that my web development skills can assist the company in creating high-quality technological solutions. I am always enthusiastic about learning new technologies and enhancing my skills in the field of Web Development
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhinnnugroho&label=Profile%20views&color=0e75b6&style=flat" alt="adhinnnugroho" /> </p>
 
-🔭 I’m currently working on Corporate!<br>
-🤝 I’m looking for help with about programming<br>
-🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web application using NextJs<br>
+<h4>- 🔭 I’m currently working on Corporate!</h4><br>
+<h4>- 🤝 I’m looking for help with about programming</h4><br>
+<h4>- 🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web application using NextJs</h4>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin: adhinnnugroho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adhinnnugroho)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhinnnugroho/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw)
 
 <!--
