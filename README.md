@@ -19,6 +19,11 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
 
 <br />
 
+🔭 I’m currently working on [**Youtube**][youtube] and Corporate!<br>
+👯 I’m looking to collaborate on with other content creators<br>
+🤝 I’m looking for help with about programming<br>
+🌱 I’m currently learning Flutter ❤️, make some website applications using Next.Js<br>
+
 ## 💻 Tech Stack:
 
 #### Programming Language
@@ -82,55 +87,3 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
   </tr>
  </tbody>
 </table>
-
-<!--
-
-## 💫 About Me:<br>
-
-
-
- <br />
-
-## 🌐 Socials:
-
-
-
- <br />
-
-## 📞 Contact:
-
-
-
- <br />
-
-## 💻 Tech Stack:
-
-#### Programming Language
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-
-## 📊 GitHub Stats:
-
-<table style="width: 100%">
- <tbody>
-  <tr>
-   <td align="center">Most Used Languages<td>
-   <td align="center">Streak Status</td>
-  </tr>
-  <tr>
-   <td align="center">
-       <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
-   </td>
-   <td align="center">
-    <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
-   </td>
-  </tr>
-  <tr>
-
-  </tr>
- </tbody>
-</table> -->
