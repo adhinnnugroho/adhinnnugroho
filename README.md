@@ -12,12 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhinnnugroho/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw) -->
-
-[![Youtube](https://img.shields.io/static/v1?label=adhinnnugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/adhinnnugroho?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![Linkedin: adhinnnugroho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adhinnnugroho)][linkedin]
+[![Linkedin: adhinnnugroho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adhinnnugroho)]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw)
 
 <!--
 
