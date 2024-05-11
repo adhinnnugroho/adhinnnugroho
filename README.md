@@ -1,7 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
-
-<br />
-
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw">Adhi Nugroho! </a></h1>
 <h3 align="center">Full-stack Web developer</h3>
 
@@ -10,20 +6,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhinnnugroho&label=Profile%20views&color=0e75b6&style=flat" alt="adhinnnugroho" /> </p>
 
+🔭 I’m currently working on Corporate!<br>
+🤝 I’m looking for help with about programming<br>
+🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web application using NextJs<br>
+
+<h3 align="left">Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhinnnugroho/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw)
+
+<a href="https://instagram.com/adhinnnugroho" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhinnnugroho" height="30" width="40" />
+</a>
+
 <!--
 
 ## 💫 About Me:<br>
 
-🔭 I’m currently working on Corporate!<br>
-🤝 I’m looking for help with about programming<br>
-🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web application using NextJs<br>
+
 
  <br />
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhinnnugroho/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw)
+
 
  <br />
 
