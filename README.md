@@ -18,8 +18,11 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhinnnugroho)
 
 <br />
+<br />
+<br />
+<br />
 
-🔭 I’m currently working on [**Youtube**][youtube] and Corporate!<br>
+🔭 I’m currently working on [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHF6XCOb1Qa7IsiMEN1fGJw) and Corporate!<br>
 👯 I’m looking to collaborate on with other content creators<br>
 🤝 I’m looking for help with about programming<br>
 🌱 I’m currently learning Flutter ❤️, make some website applications using Next.Js<br>
