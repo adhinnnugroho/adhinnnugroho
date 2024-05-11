@@ -54,7 +54,7 @@
 
 <table style="width: 100%">
  <tbody>
-<!--   <tr>
+  <tr>
    <td align="center">My Commit</td>
    <td align="center">Streak Status</td>
   </tr>
@@ -65,14 +65,10 @@
    <td align="center">
     <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
    </td>
-  </tr> -->
-  <tr>
-   <td align="center" colspan="2">
-    Most Used Languages
-   </td>
   </tr>
   <tr>
    <td align="center" colspan="2">
+     <h5>Most Used Languages</h5>
      <img height="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>
   </tr>
