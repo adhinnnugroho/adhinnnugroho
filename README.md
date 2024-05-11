@@ -3,16 +3,12 @@
 
  <br />
 
-I am a Full-stack Web Developer <b> with 2.5 years of experience </b> in the Technology industry. I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I believe that my web development skills can assist the company in creating high-quality technological solutions. I am always enthusiastic about learning new technologies and enhancing my skills in the field of Web Development
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhinnnugroho&label=Profile%20views&color=0e75b6&style=flat" alt="adhinnnugroho" /> </p>
 
-<h4>- 🔭 I’m currently working on Corporate!</h4><br>
-<h4>- 🤝 I’m looking for help with about programming</h4><br>
-<h4>- 🌱 I’m currently learning Penetration Test ❤️, Flutter and make some web application using NextJs</h4>
-<br>
+I am a Full-stack Web Developer <b> with 2.5 years of experience </b> in the Technology industry. <br/>
+I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I believe that my web development skills can assist the company in creating high-quality technological solutions. I am always enthusiastic about learning new technologies and enhancing my skills in the field of Web Development
 
 <h3 align="left">Connect with me:</h3>
 
