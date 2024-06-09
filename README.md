@@ -91,4 +91,5 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
 
 ## 🌟 Recent Projects:
 
+- **[Bayar](https://github.com/adhinnnugroho/BAYAR)** - Bayar is a finance application that I developed to learn Vite.js and React.js. This application is used to pay school tuition and allowances.**(30% complete)**
 - **[Bank Runtah: Waste Bank Management System](https://github.com/adhinnnugroho/BANK-RUNTAH)** - Bank Runtah is a waste bank management application that I rewrote using Next.js. It helps users manage waste collection, track recycling statistics, and promotes environmental awareness. **(40% complete)**
