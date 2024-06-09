@@ -88,3 +88,7 @@ I am proficient in Livewire, Laravel, Alpine.js, jQuery, Nextjs, and React.js. I
   </tr>
  </tbody>
 </table>
+
+## 🌟 Recent Projects:
+
+- **[Bank Runtah: Waste Bank Management System](https://github.com/adhinnnugroho/BANK-RUNTAH)** - Bank Runtah is a waste bank management application that I rewrote using Next.js. It helps users manage waste collection, track recycling statistics, and promotes environmental awareness. **(40% complete)**
