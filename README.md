@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhinnnugroho&label=Profile%20views&color=0e75b6&style=flat" alt="adhinnnugroho" /> </p>
 
-I am a Full-stack Web Developer with 3 years of experience in developing various web applications. Currently, I work in dynamic 
-teams using Agile methodologies to complete projects on time and meet client needs. In the future, I am determined to deepen my knowledge 
-of the latest technologies and take on strategic roles in developing innovative technology solutions.
+I am a Full-stack Web Developer with 3 years of experience in developing various web applications, with a current focus on backend development using Node.js. Throughout my career, I have consistently delivered projects with reliable and stable outcomes, and I am dedicated to providing efficient, high-quality technical solutions.
+
+As I advance in my career, I am increasingly drawn to the field of cybersecurity. My background in software development has provided me with a strong foundation in understanding technical vulnerabilities and security challenges. I am committed to deepening my expertise in cybersecurity to enhance my ability to build secure and resilient systems.
 
 🔭 I’m currently working on Corporate!<br>
 👯 I’m looking to collaborate on with other content creators<br>
