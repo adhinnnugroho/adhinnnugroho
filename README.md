@@ -80,8 +80,8 @@ As I advance in my career, I am increasingly drawn to the field of cybersecurity
 
 ## 🌟 Recent Projects:
 
-- **[Bayar](https://github.com/adhinnnugroho/BAYAR)** - Bayar is a finance application that I developed to learn Vite.js and React.js. This application is used to pay school tuition and allowances.**(30% complete)**
-- **[Bank Runtah: Waste Bank Management System](https://github.com/adhinnnugroho/BANK-RUNTAH)** - Bank Runtah is a waste bank management application that I rewrote using Next.js. It helps users manage waste collection, track recycling statistics, and promotes environmental awareness. **(40% complete)**
+- **[Bayar](https://github.com/adhinnnugroho/BAYAR)** - Bayar is a finance application that I developed to learn Vite.js and React.js. This application is used to pay school tuition and allowances.
+- **[Bank Runtah: Waste Bank Management System](https://github.com/adhinnnugroho/BANK-RUNTAH)** - Bank Runtah is a waste bank management application that I rewrote using Next.js. It helps users manage waste collection, track recycling statistics, and promotes environmental awareness.
 
 ## 📺 Interactive Demos:
 - **[Cahenom Ngaji](https://github.com/adhinnnugroho/CAHNOMNGAJI)** - Cahenom Ngaji is a web application for reading the Qur'an, displaying prayer times based on the user's location, and providing daily prayers. This application is built using Next.js for the frontend, Prisma as the ORM for database management, and the REST API from equran.id to fetch Qur'an surah data.
