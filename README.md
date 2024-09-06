@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-I am a Full-stack Web Developer with 3 years of experience in developing various web applications, with a current focus on backend development using Node.js. Throughout my career, I have consistently delivered projects with reliable and stable outcomes, and I am dedicated to providing efficient, high-quality technical solutions.
+I am a Full-stack Web Developer with 3 years of experience, specializing in building scalable and efficient web applications. Over the past 2 years, I have honed my expertise in backend development with Laravel, bringing real-time interactivity to life through Livewire, and crafting modern frontend designs with TailwindCSS and Alpine.js.
 
-As I advance in my career, I am increasingly drawn to the field of cybersecurity. My background in software development has provided me with a strong foundation in understanding technical vulnerabilities and security challenges. I am committed to deepening my expertise in cybersecurity to enhance my ability to build secure and resilient systems.
+My focus on Laravel has enabled me to deliver robust, high-quality projects across various industries, ensuring both stability and maintainability. As I continue to grow, I am excited to expand my skill set by incorporating Node.js into my toolkit, with the aim of bringing the same level of excellence and innovation to future projects. I am eager to tackle new challenges and contribute to groundbreaking developments in the web development field
 
 🔭 I’m currently working on Corporate!<br>
 👯 I’m looking to collaborate on with other content creators<br>
