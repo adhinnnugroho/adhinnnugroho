@@ -17,18 +17,6 @@ Currently, I am expanding my skill set by incorporating Node.js into my toolkit,
 - PT DIENG CYBER INDONESIA - Fullstack Web Developer Intern (maintain JalanJalan app and create Runtah Apps)
 - Freelance - Fullstack Web Developer (develop e-library, Mulia Travel, and Sahabat Petualang company profile website)
 
-# 📊  Most Used Languages:
-
-<table style="width: 100%">
- <tbody>
-  <tr>
-   <td align="center" colspan="8">
-     <img height="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
-   </td>
-  </tr>
- </tbody>
-</table>
-
 # 🌟 Ongoing Projects:
 
 - **[Bank Runtah: Waste Bank Management System](https://github.com/adhinnnugroho/BANK-RUNTAH)** - Bank Runtah is a waste bank management application that I rebuilt using Next.js. It helps users manage waste collection, track recycling statistics, and promotes environmental awareness.
