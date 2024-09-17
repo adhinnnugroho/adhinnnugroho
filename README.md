@@ -1,8 +1,10 @@
 # 👋 Hello, Nice to meet you!
 
-I am Adhi Nugroho, a Full-stack Web Developer and full-time freelancer with 3 years of experience, specializing in building scalable and efficient web applications. Over the past 2 years, I have honed my expertise in backend development using Laravel, bringing real-time interactivity to life through Livewire, and crafting modern frontend designs with TailwindCSS and Alpine.js.
+Full-stack Web Developer with over 3 years of experience across various projects, including the development of an e-library, a travel ticket booking application, and a class booking and attendance system for Golden English.
 
-Currently, I am expanding my skill set by incorporating Node.js into my toolkit, aiming to continuously innovate and deliver the best solutions in future projects.
+Proficient in backend development with Laravel, creating real-time interactivity using Livewire, and building modern frontends with TailwindCSS, Alpine.js, React.js, and Next.js. Focused on ensuring stability and ease of maintenance in applications.
+
+Currently, I am expanding my skill set with Node.js and open to new opportunities that drive innovation and success.
 
 <h3 align="left">Connect with me:</h3>
 
