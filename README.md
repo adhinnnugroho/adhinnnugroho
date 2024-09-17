@@ -1,6 +1,6 @@
 # 👋 Hello, Nice to meet you!
 
-Full-stack Web Developer with over 3 years of experience across various projects, including the development of an e-library, a travel ticket booking application, and a class booking and attendance system for Golden English.
+I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of experience across various projects, including the development of an e-library, a travel ticket booking application, and a class booking and attendance system for Golden English.
 
 Proficient in backend development with Laravel, creating real-time interactivity using Livewire, and building modern frontends with TailwindCSS, Alpine.js, React.js, and Next.js. Focused on ensuring stability and ease of maintenance in applications.
 
