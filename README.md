@@ -1,10 +1,10 @@
 # 👋 Hello, Nice to meet you!
 
-I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of experience across various projects, including the development of an e-library, a travel ticket booking application, and a class booking and attendance system for Golden English.
+As a Full-stack Web Developer with over 3 years of experience, I enjoy challenges and am always eager to explore new technologies. My career began in 2021 during an internship at PT DIENG CYBER INDONESIA, where I developed a waste management platform (bank sampah).
 
-Proficient in backend development with Laravel, creating real-time interactivity using Livewire, and building modern frontends with TailwindCSS, Alpine.js, React.js, and Next.js. Focused on ensuring stability and ease of maintenance in applications.
+Throughout my career, I have worked on various projects, including an e-library platform, class booking systems, attendance tracking systems, and travel ticket booking applications. I am skilled in backend development with Laravel, building modern and responsive frontends, and integrating real-time interactive features.
 
-Currently, I am expanding my skill set with Node.js and open to new opportunities that drive innovation and success.
+Currently, I am expanding my expertise in Node.js for backend development and have a deep interest in blockchain technology. With a commitment to clean code and continuous improvement, I strive to create high-quality software that aligns with business goals.
 
 <h3 align="left">Connect with me:</h3>
 
