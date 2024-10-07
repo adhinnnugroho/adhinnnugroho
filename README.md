@@ -1,6 +1,6 @@
 # 👋 Hello, Nice to meet you!
 
-As a Full-stack Web Developer with over 3 years of experience, I enjoy challenges and am always eager to explore new technologies. My career began in 2021 during an internship at PT DIENG CYBER INDONESIA, where I developed a waste management platform (bank sampah).
+I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of experience, I enjoy challenges and am always eager to explore new technologies. My career began in 2021 during an internship at PT DIENG CYBER INDONESIA, where I developed a waste management platform (bank sampah).
 
 Throughout my career, I have worked on various projects, including an e-library platform, class booking systems, attendance tracking systems, and travel ticket booking applications. I am skilled in backend development with Laravel, building modern and responsive frontends, and integrating real-time interactive features.
 
