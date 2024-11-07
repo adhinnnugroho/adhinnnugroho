@@ -1,10 +1,8 @@
 # 👋 Hello, Nice to meet you!
 
-I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of experience, I enjoy challenges and am always eager to explore new technologies. My career began in 2021 during an internship at PT DIENG CYBER INDONESIA, where I developed a waste management platform (bank sampah).
-
-Throughout my career, I have worked on various projects, including an e-library platform, class booking systems, attendance tracking systems, and travel ticket booking applications. I am skilled in backend development with Laravel, building modern and responsive frontends, and integrating real-time interactive features.
-
-Currently, I am expanding my expertise in Node.js for backend development and have a deep interest in blockchain technology. With a commitment to clean code and continuous improvement, I strive to create high-quality software that aligns with business goals.
+Results-driven Full-stack Web Developer with 3+ years of expertise in building scalable web applications. Specialized
+in Laravel, React.js, and Next.js development with a proven track record of delivering high-performance solutions.
+Known for creating user-centered applications that drive business growth and enhance user experience.
 
 <h3 align="left">Connect with me:</h3>
 
