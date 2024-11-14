@@ -70,24 +70,14 @@ I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in 
  <tbody>
   <tr>
    <td align="center">My Commit</td>
-   <td align="center">Streak Status</td>
+   <td align="center">Most Used Languages</td>
   </tr>
   <tr>
    <td align="center">
     <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adhinnnugroho&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
    </td>
    <td align="center">
-    <img height="60%" src="https://streak-stats.demolab.com/?user=adhinnnugroho&theme=dark" alt="streak status" />
-   </td>
-  </tr>
-  <tr>
-   <td align="center" colspan="2">
-    Most Used Languages
-   </td>
-  </tr>
-  <tr>
-   <td align="center" colspan="2">
-     <img height="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
+     <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>
   </tr>
  </tbody>
