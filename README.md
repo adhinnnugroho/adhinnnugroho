@@ -43,7 +43,6 @@ I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Framework
-![Nest.js](https://img.shields.io/badge/nest.js-%23D4224A.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -69,13 +68,9 @@ I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in 
 <table style="width: 100%">
  <tbody>
   <tr>
-   <td align="center">My Commit</td>
    <td align="center">Most Used Languages</td>
   </tr>
   <tr>
-   <td align="center">
-    <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adhinnnugroho&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=8815d6&text_color=A234EE&bg_color=0,000000,130F40" alt="my Github Stats" alt="Github stat language" />
-   </td>
    <td align="center">
      <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
    </td>
