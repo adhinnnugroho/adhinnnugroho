@@ -20,14 +20,12 @@ I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in 
 - Freelance - Fullstack Web Developer (develop e-library, Mulia Travel, and Sahabat Petualang company profile website)
 
 
-## 🌐 Socials:
-
-[![X](https://img.shields.io/badge/twiter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/adhinnnugroho)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@adhinnnugroho)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhinnnugroho)
-
 ## 📞 Contact:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhinnnugroho)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:adhinnnugroho@gmail.com)
+
+
 
 
 ## 💻 Tech Stack:
@@ -47,7 +45,6 @@ I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Remix.js](https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white)
 
 #### Framework CSS
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
