@@ -60,23 +60,4 @@ I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in 
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 
-## 📊 GitHub Stats:
 
-<table style="width: 100%">
- <tbody>
-  <tr>
-   <td align="center">Most Used Languages</td>
-  </tr>
-  <tr>
-   <td align="center">
-     <img height="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=adhinnnugroho&langs_count=8&show_icons=true&locale=en&layout=compact&theme=midnight-purple" />
-   </td>
-  </tr>
- </tbody>
-</table>
-
-<p align="center">
- 
- 
- [![](https://visitcount.itsvg.in/api?id=adhinnnugroho&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
