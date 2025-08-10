@@ -7,7 +7,6 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 
 [![Youtube](https://img.shields.io/static/v1?label=AdhinNugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Linkedin: AdhinNugroho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adhinnnugroho)][linkedin]
-[![LinkedIn — AdhinNugroho](https://img.shields.io/static/v1?label=LinkedIn&message=AdhinNugroho%20%E2%80%94%20Connect&logo=LinkedIn&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/adhinnnugroho)
 
 
 [youtube]: https://www.youtube.com/@adhinnnugroho
