@@ -1,10 +1,9 @@
 # 👋 Hello, Nice to meet you!
 
-I am Adhi Nugroho, a Full-stack Web Developer with over 3 years of expertise in building scalable web applications. I specialize in Laravel, React.js, and Next.js development, with a proven track record of delivering high-performance solutions. Recognized for creating user-centered applications that drive business growth and enhance the user experience.
+I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience building end-to-end enterprise applications using React, Livewire, Vue.js, and Laravel. Successfully delivered various internal systems and freelance projects across different industries, from concept to deployment, with a focus on performance, scalability, and user experience. Experienced in working within agile teams, flexible in adapting to shifting priorities, and committed to meeting deadlines.
 <h3 align="left">Connect with me:</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=AdhinNugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![X Follow](https://img.shields.io/badge/Follow-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)][twitter]
 [![Linkedin: AdhinNugroho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adhinnnugroho)][linkedin]
 
 [youtube]: https://www.youtube.com/@adhinnnugroho
