@@ -8,16 +8,9 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 [![Youtube](https://img.shields.io/static/v1?label=AdhinNugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![LinkedIn](https://img.shields.io/static/v1?label=AdhinNugroho&message=Connect&logo=linkedin&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/adhinnnugroho)
 
-
-
-[youtube]: https://www.youtube.com/@adhinnnugroho
-[twitter]: https://x.com/adhinnnugroho
-[linkedin]: https://www.linkedin.com/in/adhinnnugroho
-
-
-
 ## 🔥 Exp
 
+- 4VM - Fullstack Web Developer (Maintained SmartZiswaf, developed BMATCh and built several new products)
 - Golden English - Fullstack Web Developer (Maintained GEA versi 1 and developed GEA versi 2.0)
 - PT DIENG CYBER INDONESIA - Fullstack Web Developer Intern (maintain JalanJalan app and create Runtah Apps)
 - Freelance - Fullstack Web Developer (develop e-library, Mulia Travel, and Sahabat Petualang company profile website)
@@ -27,8 +20,6 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhinnnugroho)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:adhinnnugroho@gmail.com)
-
-
 
 
 ## 💻 Tech Stack:
@@ -48,6 +39,8 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuex](https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuex&logoColor=%234FC08D)
 
 #### Framework CSS
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
