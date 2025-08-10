@@ -8,6 +8,7 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 [![Youtube](https://img.shields.io/static/v1?label=AdhinNugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![LinkedIn](https://img.shields.io/static/v1?label=AdhinNugroho&message=Connect&logo=linkedin&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/adhinnnugroho)
 
+[youtube]: https://www.youtube.com/@adhinnnugroho
 ## 🔥 Exp
 
 - 4VM - Fullstack Web Developer (Maintained SmartZiswaf, developed BMATCh and built several new products)
@@ -40,7 +41,6 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vuex](https://img.shields.io/badge/vuex-%2335495e.svg?style=for-the-badge&logo=vuex&logoColor=%234FC08D)
 
 #### Framework CSS
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
