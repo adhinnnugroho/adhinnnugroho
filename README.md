@@ -3,8 +3,12 @@
 I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience building end-to-end enterprise applications using React, Livewire, Vue.js, and Laravel. Successfully delivered various internal systems and freelance projects across different industries, from concept to deployment, with a focus on performance, scalability, and user experience. Experienced in working within agile teams, flexible in adapting to shifting priorities, and committed to meeting deadlines.
 <h3 align="left">Connect with me:</h3>
 
+
+
 [![Youtube](https://img.shields.io/static/v1?label=AdhinNugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Linkedin: AdhinNugroho](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adhinnnugroho)][linkedin]
+[![LinkedIn — AdhinNugroho](https://img.shields.io/static/v1?label=LinkedIn&message=AdhinNugroho%20%E2%80%94%20Connect&logo=LinkedIn&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/adhinnnugroho)
+
 
 [youtube]: https://www.youtube.com/@adhinnnugroho
 [twitter]: https://x.com/adhinnnugroho
