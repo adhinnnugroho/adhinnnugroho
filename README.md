@@ -5,22 +5,17 @@ I am Adhi Nugroho, A Full-Stack Web Developer with over 3 years of experience bu
 
 
 
-[![Youtube](https://img.shields.io/static/v1?label=AdhinNugroho&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+
 [![LinkedIn](https://img.shields.io/static/v1?label=AdhinNugroho&message=Connect&logo=linkedin&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/adhinnnugroho)
+[![Gmail](https://img.shields.io/static/v1?label=AdhinNugroho&message=SendEmail&logo=gmail&color=red&style=for-the-badge)](mailto:adhinnnugroho@gmail.com) 
 
 [youtube]: https://www.youtube.com/@adhinnnugroho
 ## 🔥 Exp
 
-- 4VM - Fullstack Web Developer (Maintained SmartZiswaf, developed BMATCh and built several new products)
+- 4VM - Fullstack Web Developer (Maintained SmartZiswaf, developed BMATCh, Created & Maintained Smartcoop Academy and built several new products)
 - Golden English - Fullstack Web Developer (Maintained GEA versi 1 and developed GEA versi 2.0)
 - PT DIENG CYBER INDONESIA - Fullstack Web Developer Intern (maintain JalanJalan app and create Runtah Apps)
 - Freelance - Fullstack Web Developer (develop e-library, Mulia Travel, and Sahabat Petualang company profile website)
-
-
-## 📞 Contact:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhinnnugroho)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:adhinnnugroho@gmail.com)
 
 
 ## 💻 Tech Stack:
